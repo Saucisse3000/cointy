@@ -1,6 +1,6 @@
 
 .context-menu {
-    cursor: url("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/225/reversed-hand-with-middle-finger-extended_1f595.png"), help;
+    cursor: url("/oid.png"), help;
 }
 .center {
   display: block;
