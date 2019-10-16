@@ -1,6 +1,6 @@
 
 .context-menu {
-    cursor: url("/cursor.cur") help;
+    cursor: url("/oid2.png"), url("/cursor.cur"), help;
 }
 .center {
   display: block;
